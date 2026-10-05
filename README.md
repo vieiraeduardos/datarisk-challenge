@@ -1,4 +1,7 @@
-# Datarisk Case - Modelo preditivo para aprovação de crédito
+# Datarisk Challenge 
+
+Este é um desafio da Datarisk para construção de um modelo preditivo para aprovação de crédito.
+
 Modelos de score de crédito calculam a probabilidade de inadimplência e são uma das principais ferramentas utilizadas por diversas empresas para aprovar ou negar um crédito.
 O objetivo deste desafio é criar um modelo preditivo calculando a probabilidade de inadimplência de cada novo pedido de crédito.
 
